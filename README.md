@@ -87,7 +87,7 @@
  ## Moreover:     
 - graphs folder - (graphs used in report).
 
-- images_oginal & masks_orginal folders - orginal images and masks for group G provided on the
+- data -> images_oginal & masks_orginal folders - orginal images and masks for group G provided on the
   beginig of this cours).
     
 - midway folder - (contains files uploaded for the midway of the project).
