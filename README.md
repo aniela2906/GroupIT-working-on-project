@@ -95,6 +95,7 @@
 
 - 3_in_1_code_output_csv (Jupyter Source File (.ipynb)) - single code that uses color_test, assymetry_test and blue_white_veil_test, to output the results for this 3 features,
   in a csv file.
+-3_in_1_code_with_trained_classifier (Jupyter Source File (.ipynb)) - the same code provided for the final subbmition (just in .ipynb) 
   
 - classifier_and_probability (Jupyter Source File (.ipynb)) - code, where we compared classifier: random forest,  KNN, decision tree, their learning curves, confusion matrices and probabilities.
 
