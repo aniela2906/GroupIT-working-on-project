@@ -2,11 +2,11 @@ ANOVA Analysis Results
 ====================
 
 Color Score by Age Group:
-F_onewayResult(statistic=0.48032882623472056, pvalue=0.7501203190658721)
+F_onewayResult(statistic=4.39973433098453, pvalue=0.0016471895982433599)
 
 Symmetry Score by Age Group:
-F_onewayResult(statistic=2.8778602191913207, pvalue=0.025723525538613266)
+F_onewayResult(statistic=1.2273203037165255, pvalue=0.2980818938012914)
 
 Blue-White Veil Score by Age Group:
-F_onewayResult(statistic=0.2815482502651115, pvalue=0.8894348037350226)
+F_onewayResult(statistic=0.6439387086435857, pvalue=0.631360609022984)
 
